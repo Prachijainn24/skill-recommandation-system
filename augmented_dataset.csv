@@ -1,0 +1,401 @@
+company_id,company_name,industry_domain,salary,location,tools_and_technologies,role_name,role_category,experience_level
+1,Groww,Fintech,14.44,Bangalore,"Java,Finance,APIs,Marketing",Backend Engineer,Development,Mid
+2,Meta,Tech,19.36,Bangalore,"React,JavaScript,System Design,MySQL",Frontend Engineer,Development,Mid
+3,EASports,Gaming,18.65,Hyderabad,"C++,Gaming,Graphics,System Design",Game Dev,Development,Mid
+4,Adobe,Tech,11.52,Noida,"React,UI",Frontend Engineer,Development,Mid
+5,Scaler,EdTech,6.53,Bangalore,"DSA,Teaching",Instructor,Development,Mid
+6,Cisco,Networking,13.32,Bangalore,"Networking,Security",Network Engineer,Development,Mid
+7,Meesho,E-commerce,6.89,Bangalore,"Python,SQL,Analytics,PowerBI",Data Analyst,Analytics,Mid
+8,Accenture,Consulting,5.09,Bangalore,"Python,ML,SQL,Ruby",Data Analyst,Analytics,Mid
+9,Dropbox,Tech,17.76,Remote,"Python,Cloud,Storage,Redis",Backend Engineer,Development,Mid
+10,HCL,IT Services,3.17,Noida,"Java,Spring,MySQL,Selenium",Backend Developer,Development,Entry
+11,Flipkart,E-commerce,10,Bangalore,"Java,Microservices",Backend Engineer,Development,Mid
+12,Figma,Tech,20.2,Remote,"JavaScript,Collaboration",Frontend Engineer,Development,Mid
+13,Dropbox,Tech,19.49,Remote,"Cloud,Storage",Backend Engineer,Development,Mid
+14,PwC,Consulting,4.29,Kolkata,"Excel,SQL",Analyst,Analytics,Entry
+15,EASports,Gaming,17.24,Hyderabad,"C++,Gaming",Game Dev,Development,Mid
+16,Oracle,Tech,10.17,Bangalore,"Java,SQL,Cloud,Testing",Backend Developer,Development,Mid
+17,Ubisoft,Gaming,17.8,Pune,"C++,Unity,Gaming,React",Game Dev,Development,Mid
+18,BigBasket,E-commerce,9.81,Bangalore,"Python,Django,SQL,Spring",Backend Dev,Development,Mid
+19,Groww,Fintech,15.24,Bangalore,"Java,Finance,APIs,Backend",Backend Engineer,Development,Mid
+20,LTI,IT Services,6.25,Mumbai,"Python,ML,Data Science,Networking",Data Scientist,AI,Mid
+21,Paytm,Fintech,8.61,Noida,"Node.js,MongoDB,APIs,OpenSource",Full Stack Developer,Development,Mid
+22,Razorpay,Fintech,11.48,Bangalore,"Node.js,Payments",Backend Developer,Development,Mid
+23,RedBus,Transport,8.91,Bangalore,"Spring Boot,SQL",Backend Developer,Development,Mid
+24,Asana,Tech,18.76,Remote,"JavaScript,UX",Frontend Engineer,Development,Mid
+25,TechMahindra,IT Services,2.54,Pune,"Java,Networking,Linux,DSP",Support Engineer,Development,Entry
+26,Dropbox,Tech,17.83,Remote,"Cloud,Storage",Backend Engineer,Development,Mid
+27,InfosysEdge,Tech,7.96,Bangalore,"AI,Cloud",AI Engineer,AI,Entry
+28,HSBC,Finance,11.21,Pune,"SQL,Excel",Analyst,Analytics,Entry
+29,LTI,IT Services,6.84,Mumbai,"ML,Data Science",Data Scientist,AI,Mid
+30,Databricks,Tech,20.33,Bangalore,"Python,Big Data",Data Engineer,AI,Mid
+31,AmericanExpress,Finance,13.83,Gurgaon,"Python,SQL",Data Analyst,Analytics,Mid
+32,Capgemini,IT Services,4.81,Pune,"Java,Testing",QA Engineer,Development,Entry
+33,Asana,Tech,18.38,Remote,"React,JavaScript,UX,Ruby",Frontend Engineer,Development,Mid
+34,Snowflake,Tech,19.35,Bangalore,"SQL,Data",Data Engineer,AI,Mid
+35,Google,Tech,20.67,Bangalore,"DSA,Algorithms,C++,Data Science",SWE,Development,Mid
+36,PolicyBazaar,Fintech,5.62,Gurgaon,"React,Node",Full Stack Dev,Development,Mid
+37,eBay,E-commerce,17.19,Bangalore,"Java,APIs,Cloud",Backend Engineer,Development,Mid
+38,BigBasket,E-commerce,10.45,Bangalore,"Python,Django,SQL,Backend",Backend Dev,Development,Mid
+39,Nvidia,Tech,18.8,Bangalore,"CUDA,AI",AI Engineer,AI,Mid
+40,Zoho,Tech,6.44,Chennai,"Java,DSA,Web Dev,Realtime",Software Developer,Development,Mid
+41,GoldmanSachs,Finance,19.08,Bangalore,"Java,Finance",Software Engineer,Development,Mid
+42,Infosys,IT Services,4.03,Bangalore,"Python,SQL,DBMS,OpenSource",System Engineer,Development,Entry
+43,WalmartLabs,Retail,18.43,Bangalore,"Java,DSA,System Design,UX",SDE,Development,Mid
+44,Byjus,EdTech,5.79,Bangalore,"React,JavaScript,UI,SQL",Frontend Developer,Development,Entry
+45,Zomato,FoodTech,8.1,Gurgaon,"Python,Django,SQL,ABAP",Backend Developer,Development,Entry
+46,Tesla,Automobile,19.11,Bangalore,"AI,Embedded",AI Engineer,AI,Mid
+47,HSBC,Finance,9.61,Pune,"Excel,Banking",Analyst,Analytics,Entry
+48,Dropbox,Tech,19.92,Remote,"Cloud,Storage",Backend Engineer,Development,Mid
+49,Cisco,Networking,12.02,Bangalore,"Networking,CCNA,Security,Graphics",Network Engineer,Development,Mid
+50,Ola,Transport,9.52,Bangalore,"Kotlin,Android",App Developer,Development,Mid
+51,Zerodha,Fintech,15.51,Bangalore,"Python,Trading",Backend Dev,Development,Mid
+52,InfosysEdge,Tech,6.2,Bangalore,"AI,Python",AI Engineer,AI,Entry
+53,InfosysEdge,Tech,7.44,Bangalore,"AI,Python",AI Engineer,AI,Entry
+54,Paytm,Fintech,8.18,Noida,"Node.js,MongoDB,APIs,Virtualization",Full Stack Developer,Development,Mid
+55,Dropbox,Tech,19.93,Remote,"Python,Cloud,Storage,UX",Backend Engineer,Development,Mid
+56,Zomato,FoodTech,7.3,Gurgaon,"Python,Django",Backend Developer,Development,Entry
+57,Figma,Tech,20.96,Remote,"JavaScript,UI",Frontend Engineer,Development,Mid
+58,LTI,IT Services,5.93,Mumbai,"Python,ML,Data Science,Firebase",Data Scientist,AI,Mid
+59,KPMG,Consulting,4.53,Gurgaon,"SQL,Python,Analytics,AI",Data Analyst,Analytics,Mid
+60,JPMorgan,Finance,18.26,Mumbai,"Java,SQL,Spring,Storage",Backend Engineer,Development,Mid
+61,Unacademy,EdTech,7.02,Bangalore,"Node.js,React,Firebase,Storage",Full Stack Developer,Development,Mid
+62,SAP,Tech,8.63,Bangalore,"ABAP,SQL",SAP Developer,Development,Mid
+63,Meta,Tech,20.11,Bangalore,"React,System Design",Frontend Engineer,Development,Mid
+64,JPMorgan,Finance,17.37,Mumbai,"Java,Spring",Backend Engineer,Development,Mid
+65,Tesla,Automobile,19.29,Bangalore,"AI,Embedded,C++,Kotlin",AI Engineer,AI,Mid
+66,Upstox,Fintech,14.04,Mumbai,"Node.js,Trading,APIs,CCNA",Backend Dev,Development,Mid
+67,RedBus,Transport,6.6,Bangalore,"Java,Spring Boot,SQL,Design",Backend Developer,Development,Mid
+68,Dream11,Gaming,17.08,Mumbai,"ML,Analytics",Data Scientist,AI,Mid
+69,Ubisoft,Gaming,16.1,Pune,"C++,Unity,Gaming,Ecom",Game Dev,Development,Mid
+70,Ola,Transport,7.8,Bangalore,"Java,Kotlin,Android,C#",App Developer,Development,Mid
+71,PolicyBazaar,Fintech,6.3,Gurgaon,"React,Node,MongoDB,Gaming",Full Stack Dev,Development,Mid
+72,Zerodha,Fintech,14.39,Bangalore,"Python,Trading,APIs,UI",Backend Dev,Development,Mid
+73,Byjus,EdTech,4.63,Bangalore,"React,JavaScript,UI,Web Dev",Frontend Developer,Development,Entry
+74,JPMorgan,Finance,15.71,Mumbai,"Java,SQL,Spring,Analytics",Backend Engineer,Development,Mid
+75,Meta,Tech,19.29,Bangalore,"JavaScript,System Design",Frontend Engineer,Development,Mid
+76,Stripe,Fintech,18.69,Remote,"Ruby,APIs,Payments,Node.js",Backend Developer,Development,Mid
+77,ServiceNow,Tech,12.77,Hyderabad,"JavaScript,Cloud,ITSM,C#",Developer,Development,Mid
+78,EASports,Gaming,17.46,Hyderabad,"C++,Gaming,Graphics,Kafka",Game Dev,Development,Mid
+79,CitiBank,Finance,13.41,Mumbai,"Java,SQL,Banking,Marketing",Software Engineer,Development,Mid
+80,Oracle,Tech,10.53,Bangalore,"Java,SQL,Cloud,Realtime",Backend Developer,Development,Mid
+81,Swiggy,FoodTech,7.6,Bangalore,"Spring Boot,Redis",Backend Engineer,Development,Mid
+82,JPMorgan,Finance,16.46,Mumbai,"Java,SQL,Spring,DSP",Backend Engineer,Development,Mid
+83,MorganStanley,Finance,16.97,Mumbai,"Python,SQL,Analytics,Backend",Data Analyst,Analytics,Mid
+84,Dream11,Gaming,14.96,Mumbai,"Python,ML,Analytics,Cloud",Data Scientist,AI,Mid
+85,Flipkart,E-commerce,9.18,Bangalore,"Java,Microservices,DSA,Redis",Backend Engineer,Development,Mid
+86,Meta,Tech,21.14,Bangalore,"React,JavaScript",Frontend Engineer,Development,Mid
+87,Oracle,Tech,10.26,Bangalore,"Java,SQL,Cloud,Banking",Backend Developer,Development,Mid
+88,Canva,Tech,18.62,Remote,"React,Design,JavaScript,Product",Frontend Developer,Development,Mid
+89,Zoho,Tech,7.07,Chennai,"Java,DSA",Software Developer,Development,Mid
+90,Meesho,E-commerce,9.34,Bangalore,"SQL,Analytics",Data Analyst,Analytics,Mid
+91,TCSDigital,Tech,6.91,Mumbai,"Java,Cloud",Software Engineer,Development,Entry
+92,Palantir,Tech,23.38,Remote,"Python,Analytics",Data Engineer,AI,Mid
+93,Dream11,Gaming,14.66,Mumbai,"ML,Analytics",Data Scientist,AI,Mid
+94,MakeMyTrip,Travel,9.59,Gurgaon,"Java,APIs,Microservices,C#",Backend Engineer,Development,Mid
+95,JPMorgan,Finance,17.21,Mumbai,"Java,SQL,Spring,System Design",Backend Engineer,Development,Mid
+96,Ola,Transport,7.95,Bangalore,"Java,Kotlin,Android,UI",App Developer,Development,Mid
+97,PolicyBazaar,Fintech,8.32,Gurgaon,"React,MongoDB",Full Stack Dev,Development,Mid
+98,Shopify,E-commerce,18.68,Remote,"Ruby,React,Ecom,DSA",Full Stack Dev,Development,Mid
+99,Upstox,Fintech,11.66,Mumbai,"Node.js,Trading,APIs,ML",Backend Dev,Development,Mid
+100,UpGrad,EdTech,6.16,Bangalore,"ML,Analytics",Data Scientist,AI,Mid
+101,Databricks,Tech,19.59,Bangalore,"Spark,Big Data",Data Engineer,AI,Mid
+102,Zoho,Tech,8.42,Chennai,"Java,Web Dev",Software Developer,Development,Mid
+103,Meta,Tech,21.34,Bangalore,"React,JavaScript,System Design,Apex",Frontend Engineer,Development,Mid
+104,JPMorgan,Finance,18.35,Mumbai,"Java,SQL,Spring,C++",Backend Engineer,Development,Mid
+105,HubSpot,Tech,13.69,Remote,"Marketing,Analytics",Analyst,Analytics,Mid
+106,Nvidia,Tech,20.92,Bangalore,"CUDA,C++",AI Engineer,AI,Mid
+107,TCSDigital,Tech,7.78,Mumbai,"Java,DSA",Software Engineer,Development,Entry
+108,Uber,Transport,14.8,Bangalore,"DSA,Java",SDE,Development,Mid
+109,Zoom,Tech,19.36,Remote,"Java,Networking,Cloud,Collaboration",Backend Engineer,Development,Mid
+110,PayPal,Fintech,14.69,Chennai,"Java,APIs",Backend Engineer,Development,Mid
+111,Nvidia,Tech,20.39,Bangalore,"CUDA,AI",AI Engineer,AI,Mid
+112,Swiggy,FoodTech,10.34,Bangalore,"Java,Spring Boot",Backend Engineer,Development,Mid
+113,Zoho,Tech,5.95,Chennai,"DSA,Web Dev",Software Developer,Development,Mid
+114,ServiceNow,Tech,13.03,Hyderabad,"JavaScript,ITSM",Developer,Development,Mid
+115,Unacademy,EdTech,7.17,Bangalore,"Node.js,React,Firebase,Realtime",Full Stack Developer,Development,Mid
+116,VMware,Tech,15.32,Bangalore,"Cloud,Virtualization,Java,C++",Software Engineer,Development,Mid
+117,PolicyBazaar,Fintech,7.66,Gurgaon,"React,Node,MongoDB,Agile",Full Stack Dev,Development,Mid
+118,Accenture,Consulting,6.37,Bangalore,"Python,ML,SQL,DSP",Data Analyst,Analytics,Mid
+119,MorganStanley,Finance,16.87,Mumbai,"Python,SQL,Analytics,OpenSource",Data Analyst,Analytics,Mid
+120,Spotify,Tech,18.82,Remote,"Data,ML",Data Engineer,AI,Mid
+121,LTI,IT Services,7.4,Mumbai,"Python,ML,Data Science,Big Data",Data Scientist,AI,Mid
+122,Databricks,Tech,19.78,Bangalore,"Spark,Python",Data Engineer,AI,Mid
+123,Barclays,Finance,12.37,Pune,"Python,ML,Analytics,Ruby",Data Scientist,AI,Mid
+124,Ola,Transport,7.65,Bangalore,"Java,Kotlin",App Developer,Development,Mid
+125,Accenture,Consulting,4.65,Bangalore,"Python,SQL",Data Analyst,Analytics,Mid
+126,LTI,IT Services,5.31,Mumbai,"Python,Data Science",Data Scientist,AI,Mid
+127,Nykaa,E-commerce,6.83,Mumbai,"JavaScript,UX",Frontend Developer,Development,Mid
+128,Ubisoft,Gaming,16.27,Pune,"C++,Unity,Gaming,ML",Game Dev,Development,Mid
+129,Shopify,E-commerce,19.49,Remote,"Ruby,React,Ecom,Security",Full Stack Dev,Development,Mid
+130,Stripe,Fintech,20.12,Remote,"Ruby,APIs,Payments,Algorithms",Backend Developer,Development,Mid
+131,Cisco,Networking,12.57,Bangalore,"Networking,CCNA,Security,APIs",Network Engineer,Development,Mid
+132,BookMyShow,Entertainment,7.55,Mumbai,"Node.js,MongoDB",Full Stack Dev,Development,Mid
+133,Meesho,E-commerce,7.32,Bangalore,"Python,SQL,Analytics,Backend",Data Analyst,Analytics,Mid
+134,RedHat,Tech,14.09,Bangalore,"OpenSource,Cloud",DevOps Engineer,Development,Mid
+135,Zoom,Tech,18,Remote,"Java,Networking,Cloud,Firebase",Backend Engineer,Development,Mid
+136,Meta,Tech,20,Bangalore,"React,JavaScript,System Design,C#",Frontend Engineer,Development,Mid
+137,Google,Tech,20.79,Bangalore,"DSA,Algorithms",SWE,Development,Mid
+138,Cisco,Networking,10.78,Bangalore,"Networking,CCNA",Network Engineer,Development,Mid
+139,Intel,Hardware,13.98,Bangalore,"C++,Embedded,OS",Embedded Engineer,Development,Mid
+140,EASports,Gaming,18.36,Hyderabad,"C++,Gaming,Graphics,JavaScript",Game Dev,Development,Mid
+141,Airbnb,Tech,22.12,Remote,"React,Node,System Design,AI",Full Stack Dev,Development,Mid
+142,Scaler,EdTech,6.89,Bangalore,"DSA,Java",Instructor,Development,Mid
+143,HubSpot,Tech,15.76,Remote,"Marketing,CRM,Analytics,Big Data",Analyst,Analytics,Mid
+144,WalmartLabs,Retail,18.09,Bangalore,"Java,DSA",SDE,Development,Mid
+145,Square,Fintech,18.87,Remote,"Payments,Cloud",Backend Engineer,Development,Mid
+146,Swiggy,FoodTech,9.64,Bangalore,"Java,Spring Boot",Backend Engineer,Development,Mid
+147,Cognizant,IT Services,4.29,Chennai,"Python,SQL,Excel,Collaboration",Data Analyst,Analytics,Entry
+148,Amazon,Tech,11.8,Hyderabad,"DSA,System Design",SDE,Development,Mid
+149,Cognizant,IT Services,4.71,Chennai,"Python,SQL,Excel,Algorithms",Data Analyst,Analytics,Entry
+150,Wayfair,E-commerce,17.67,Remote,"Java,Cloud",Backend Engineer,Development,Mid
+151,Cisco,Networking,12.31,Bangalore,"Networking,Security",Network Engineer,Development,Mid
+152,Groww,Fintech,13.12,Bangalore,"Java,Finance,APIs,CRM",Backend Engineer,Development,Mid
+153,SAP,Tech,7.97,Bangalore,"SQL,SAP HANA",SAP Developer,Development,Mid
+154,RedHat,Tech,16.12,Bangalore,"Linux,OpenSource",DevOps Engineer,Development,Mid
+155,Wipro,IT Services,3.15,Hyderabad,"JavaScript,Node",Frontend Developer,Development,Entry
+156,Zomato,FoodTech,7.35,Gurgaon,"Python,Django,SQL,Kafka",Backend Developer,Development,Entry
+157,Nvidia,Tech,21.25,Bangalore,"CUDA,AI",AI Engineer,AI,Mid
+158,Meta,Tech,19.6,Bangalore,"JavaScript,System Design",Frontend Engineer,Development,Mid
+159,Twilio,Tech,18.4,Remote,"APIs,Node,Cloud,Trading",Backend Developer,Development,Mid
+160,Figma,Tech,20.96,Remote,"JavaScript,UI,Collaboration,Java",Frontend Engineer,Development,Mid
+161,LTI,IT Services,6.97,Mumbai,"Python,ML,Data Science,Apex",Data Scientist,AI,Mid
+162,Uber,Transport,16.31,Bangalore,"DSA,System Design,Java",SDE,Development,Mid
+163,Scaler,EdTech,9.08,Bangalore,"DSA,Java,Teaching,SAP HANA",Instructor,Development,Mid
+164,Nvidia,Tech,21.44,Bangalore,"CUDA,C++,AI,Node",AI Engineer,AI,Mid
+165,Palantir,Tech,20.71,Remote,"Python,Data,Analytics,Networking",Data Engineer,AI,Mid
+166,HSBC,Finance,9.9,Pune,"SQL,Banking",Analyst,Analytics,Entry
+167,Upstox,Fintech,12.25,Mumbai,"Trading,APIs",Backend Dev,Development,Mid
+168,Meesho,E-commerce,8.08,Bangalore,"SQL,Analytics",Data Analyst,Analytics,Mid
+169,CitiBank,Finance,10.65,Mumbai,"SQL,Banking",Software Engineer,Development,Mid
+170,WalmartLabs,Retail,18.05,Bangalore,"Java,DSA",SDE,Development,Mid
+171,Atlassian,Tech,18.87,Bangalore,"Java,Cloud,Agile,Graphics",Software Engineer,Development,Mid
+172,Nvidia,Tech,19.32,Bangalore,"CUDA,C++",AI Engineer,AI,Mid
+173,Cognizant,IT Services,3,Chennai,"Python,SQL",Data Analyst,Analytics,Entry
+174,Figma,Tech,19.86,Remote,"JavaScript,UI,Collaboration,AI",Frontend Engineer,Development,Mid
+175,Twilio,Tech,19.43,Remote,"APIs,Node,Cloud,DSP",Backend Developer,Development,Mid
+176,Databricks,Tech,20.92,Bangalore,"Spark,Python,Big Data,DSP",Data Engineer,AI,Mid
+177,TCS,IT Services,4.92,Mumbai,"Java,SQL,DSA,ITSM",Software Engineer,Development,Entry
+178,KPMG,Consulting,7.07,Gurgaon,"SQL,Python,Analytics,Linux",Data Analyst,Analytics,Mid
+179,MakeMyTrip,Travel,10.5,Gurgaon,"APIs,Microservices",Backend Engineer,Development,Mid
+180,Square,Fintech,17.78,Remote,"Java,Payments,Cloud,Embedded",Backend Engineer,Development,Mid
+181,Amazon,Tech,11.44,Hyderabad,"Java,System Design",SDE,Development,Mid
+182,Amazon,Tech,12.88,Hyderabad,"DSA,Java",SDE,Development,Mid
+183,Paytm,Fintech,7.86,Noida,"Node.js,MongoDB",Full Stack Developer,Development,Mid
+184,eBay,E-commerce,15.36,Bangalore,"Java,APIs,Cloud,OpenSource",Backend Engineer,Development,Mid
+185,TCSDigital,Tech,7.05,Mumbai,"Java,Cloud",Software Engineer,Development,Entry
+186,Canva,Tech,17.97,Remote,"React,Design",Frontend Developer,Development,Mid
+187,Asana,Tech,18.4,Remote,"React,UX",Frontend Engineer,Development,Mid
+188,Capgemini,IT Services,4.4,Pune,"Java,Testing",QA Engineer,Development,Entry
+189,Accenture,Consulting,6.25,Bangalore,"Python,ML,SQL,CCNA",Data Analyst,Analytics,Mid
+190,Snowflake,Tech,17.46,Bangalore,"SQL,Cloud",Data Engineer,AI,Mid
+191,Adobe,Tech,11.03,Noida,"React,UI",Frontend Engineer,Development,Mid
+192,Razorpay,Fintech,9.49,Bangalore,"Node.js,APIs,Payments,Linux",Backend Developer,Development,Mid
+193,Swiggy,FoodTech,9.21,Bangalore,"Java,Redis",Backend Engineer,Development,Mid
+194,Paytm,Fintech,6.94,Noida,"Node.js,MongoDB,APIs,Linux",Full Stack Developer,Development,Mid
+195,eBay,E-commerce,14.75,Bangalore,"APIs,Cloud",Backend Engineer,Development,Mid
+196,Cisco,Networking,12.53,Bangalore,"Networking,CCNA,Security,Collaboration",Network Engineer,Development,Mid
+197,IBM,Tech,7.64,Bangalore,"Python,Cloud",ML Engineer,AI,Mid
+198,IBM,Tech,6.62,Bangalore,"AI,Cloud",ML Engineer,AI,Mid
+199,Groww,Fintech,15.44,Bangalore,"Java,Finance,APIs",Backend Engineer,Development,Mid
+200,Wayfair,E-commerce,15.68,Remote,"Microservices,Cloud",Backend Engineer,Development,Mid
+201,Zerodha,Fintech,15.71,Bangalore,"Python,Trading",Backend Dev,Development,Mid
+202,Byjus,EdTech,6.25,Bangalore,"React,UI",Frontend Developer,Development,Entry
+203,LTI,IT Services,4.73,Mumbai,"Python,Data Science",Data Scientist,AI,Mid
+204,HSBC,Finance,8.74,Pune,"SQL,Banking",Analyst,Analytics,Entry
+205,Intel,Hardware,14.34,Bangalore,"C++,Embedded,OS,Linux",Embedded Engineer,Development,Mid
+206,Atlassian,Tech,18.94,Bangalore,"Java,Cloud,Agile,ITSM",Software Engineer,Development,Mid
+207,EASports,Gaming,17.74,Hyderabad,"Gaming,Graphics",Game Dev,Development,Mid
+208,Cred,Fintech,12.69,Bangalore,"Java,Cloud",Backend Engineer,Development,Mid
+209,TechMahindra,IT Services,4.96,Pune,"Java,Networking,Linux,DBMS",Support Engineer,Development,Entry
+210,Slack,Tech,16.04,Remote,"React,Realtime",Full Stack Dev,Development,Mid
+211,Infosys,IT Services,2.17,Bangalore,"Python,SQL",System Engineer,Development,Entry
+212,Wipro,IT Services,4.52,Hyderabad,"JavaScript,React,Node,Django",Frontend Developer,Development,Entry
+213,InfosysEdge,Tech,8.39,Bangalore,"AI,Cloud,Python,Data Science",AI Engineer,AI,Entry
+214,Nvidia,Tech,19.37,Bangalore,"CUDA,AI",AI Engineer,AI,Mid
+215,HubSpot,Tech,15.73,Remote,"Marketing,CRM,Analytics,Design",Analyst,Analytics,Mid
+216,BigBasket,E-commerce,8.67,Bangalore,"Django,SQL",Backend Dev,Development,Mid
+217,Cred,Fintech,12.06,Bangalore,"Java,Cloud",Backend Engineer,Development,Mid
+218,Razorpay,Fintech,10.78,Bangalore,"Node.js,APIs,Payments,Trading",Backend Developer,Development,Mid
+219,Infosys,IT Services,2.61,Bangalore,"Python,DBMS",System Engineer,Development,Entry
+220,Tesla,Automobile,17.77,Bangalore,"AI,Embedded,C++,CUDA",AI Engineer,AI,Mid
+221,Target,Retail,15.52,Bangalore,"Python,Data,Analytics",Data Analyst,Analytics,Mid
+222,BookMyShow,Entertainment,6.56,Mumbai,"Node.js,React,MongoDB,DBMS",Full Stack Dev,Development,Mid
+223,Barclays,Finance,11.51,Pune,"Python,ML",Data Scientist,AI,Mid
+224,Canva,Tech,18.46,Remote,"React,JavaScript",Frontend Developer,Development,Mid
+225,Meesho,E-commerce,6.6,Bangalore,"Python,SQL,Analytics,Selenium",Data Analyst,Analytics,Mid
+226,Salesforce,Tech,13.47,Hyderabad,"Apex,CRM,Cloud,Analytics",Developer,Development,Mid
+227,TechMahindra,IT Services,4.06,Pune,"Java,Networking",Support Engineer,Development,Entry
+228,Cred,Fintech,11.11,Bangalore,"Java,Microservices",Backend Engineer,Development,Mid
+229,Cognizant,IT Services,2.96,Chennai,"SQL,Excel",Data Analyst,Analytics,Entry
+230,RedHat,Tech,15.82,Bangalore,"Linux,Cloud",DevOps Engineer,Development,Mid
+231,Salesforce,Tech,13.94,Hyderabad,"Apex,CRM",Developer,Development,Mid
+232,Snowflake,Tech,18.65,Bangalore,"Cloud,Data",Data Engineer,AI,Mid
+233,Wayfair,E-commerce,17.02,Remote,"Java,Cloud",Backend Engineer,Development,Mid
+234,Infosys,IT Services,3.07,Bangalore,"Python,DBMS",System Engineer,Development,Entry
+235,TCSDigital,Tech,5.64,Mumbai,"Java,DSA",Software Engineer,Development,Entry
+236,Paytm,Fintech,8,Noida,"Node.js,APIs",Full Stack Developer,Development,Mid
+237,BookMyShow,Entertainment,5.62,Mumbai,"Node.js,React,MongoDB,Microservices",Full Stack Dev,Development,Mid
+238,Zomato,FoodTech,7.9,Gurgaon,"Python,Django",Backend Developer,Development,Entry
+239,Target,Retail,14.03,Bangalore,"Python,Data,Analytics,Kotlin",Data Analyst,Analytics,Mid
+240,Meta,Tech,20.74,Bangalore,"React,JavaScript,System Design,ITSM",Frontend Engineer,Development,Mid
+241,HSBC,Finance,10.43,Pune,"SQL,Excel,Banking,ABAP",Analyst,Analytics,Entry
+242,PolicyBazaar,Fintech,8.17,Gurgaon,"React,Node,MongoDB,SQL",Full Stack Dev,Development,Mid
+243,IBM,Tech,8.16,Bangalore,"AI,Python",ML Engineer,AI,Mid
+244,Atlassian,Tech,18.58,Bangalore,"Java,Cloud,Agile,Storage",Software Engineer,Development,Mid
+245,Freshworks,Tech,7.72,Chennai,"React,JavaScript,UI,Analytics",Frontend Engineer,Development,Mid
+246,PwC,Consulting,3.94,Kolkata,"Excel,SQL,Audit,Unity",Analyst,Analytics,Entry
+247,Cred,Fintech,12.11,Bangalore,"Microservices,Cloud",Backend Engineer,Development,Mid
+248,Games24x7,Gaming,15.13,Mumbai,"Gaming,Backend",Backend Dev,Development,Mid
+249,Palantir,Tech,21.57,Remote,"Python,Data,Analytics,ABAP",Data Engineer,AI,Mid
+250,PolicyBazaar,Fintech,8.41,Gurgaon,"React,Node",Full Stack Dev,Development,Mid
+251,HubSpot,Tech,15.66,Remote,"Marketing,CRM,Analytics,Payments",Analyst,Analytics,Mid
+252,Notion,Tech,17.02,Remote,"JavaScript,Design",Frontend Developer,Development,Mid
+253,Stripe,Fintech,20.09,Remote,"APIs,Payments",Backend Developer,Development,Mid
+254,Netflix,Tech,26.1,Remote,"Python,Cloud,Data,JavaScript",Data Engineer,AI,Mid
+255,Razorpay,Fintech,9.24,Bangalore,"Node.js,APIs,Payments,UI",Backend Developer,Development,Mid
+256,HCL,IT Services,4.28,Noida,"Java,Spring,MySQL,Microservices",Backend Developer,Development,Entry
+257,Meesho,E-commerce,6.89,Bangalore,"Python,SQL,Analytics,JavaScript",Data Analyst,Analytics,Mid
+258,Wayfair,E-commerce,17.68,Remote,"Microservices,Cloud",Backend Engineer,Development,Mid
+259,Tesla,Automobile,17.68,Bangalore,"AI,Embedded,C++,Data Science",AI Engineer,AI,Mid
+260,Byjus,EdTech,4.54,Bangalore,"React,JavaScript,UI,Product",Frontend Developer,Development,Entry
+261,InfosysEdge,Tech,6.05,Bangalore,"AI,Cloud",AI Engineer,AI,Entry
+262,HSBC,Finance,10.72,Pune,"SQL,Excel,Banking,Agile",Analyst,Analytics,Entry
+263,Meesho,E-commerce,8.33,Bangalore,"Python,SQL,Analytics",Data Analyst,Analytics,Mid
+264,Meta,Tech,20.62,Bangalore,"React,JavaScript,System Design,OpenSource",Frontend Engineer,Development,Mid
+265,Slack,Tech,17.43,Remote,"Node,Realtime",Full Stack Dev,Development,Mid
+266,Spotify,Tech,19.29,Remote,"Data,ML",Data Engineer,AI,Mid
+267,Capgemini,IT Services,2.95,Pune,"Java,Selenium",QA Engineer,Development,Entry
+268,Nykaa,E-commerce,7.02,Mumbai,"React,JavaScript,UX,C++",Frontend Developer,Development,Mid
+269,WalmartLabs,Retail,18.79,Bangalore,"DSA,System Design",SDE,Development,Mid
+270,HSBC,Finance,9.04,Pune,"Excel,Banking",Analyst,Analytics,Entry
+271,PolicyBazaar,Fintech,6.81,Gurgaon,"Node,MongoDB",Full Stack Dev,Development,Mid
+272,Amazon,Tech,11.38,Hyderabad,"DSA,Java,System Design,UI",SDE,Development,Mid
+273,TCS,IT Services,3.19,Mumbai,"SQL,DSA",Software Engineer,Development,Entry
+274,Amazon,Tech,10.88,Hyderabad,"DSA,Java,System Design,Android",SDE,Development,Mid
+275,Cisco,Networking,12.1,Bangalore,"Networking,CCNA",Network Engineer,Development,Mid
+276,UpGrad,EdTech,7.22,Bangalore,"Python,Analytics",Data Scientist,AI,Mid
+277,Target,Retail,15.44,Bangalore,"Python,Analytics",Data Analyst,Analytics,Mid
+278,Microsoft,Tech,17.66,Hyderabad,"DSA,C#",Software Engineer,Development,Mid
+279,IBM,Tech,7.42,Bangalore,"Python,Cloud",ML Engineer,AI,Mid
+280,HCL,IT Services,5.6,Noida,"Spring,MySQL",Backend Developer,Development,Entry
+281,Flipkart,E-commerce,9.03,Bangalore,"Java,Microservices,DSA",Backend Engineer,Development,Mid
+282,CitiBank,Finance,10.58,Mumbai,"Java,SQL",Software Engineer,Development,Mid
+283,Flipkart,E-commerce,10.77,Bangalore,"Java,Microservices,DSA,Node.js",Backend Engineer,Development,Mid
+284,Netflix,Tech,24.16,Remote,"Python,Data",Data Engineer,AI,Mid
+285,PolicyBazaar,Fintech,6.63,Gurgaon,"React,Node,MongoDB,Azure",Full Stack Dev,Development,Mid
+286,Target,Retail,16.18,Bangalore,"Python,Analytics",Data Analyst,Analytics,Mid
+287,SAP,Tech,8.13,Bangalore,"ABAP,SAP HANA",SAP Developer,Development,Mid
+288,Games24x7,Gaming,14.18,Mumbai,"Java,Gaming,Backend,CUDA",Backend Dev,Development,Mid
+289,Target,Retail,14.77,Bangalore,"Python,Analytics",Data Analyst,Analytics,Mid
+290,Stripe,Fintech,19.44,Remote,"Ruby,APIs",Backend Developer,Development,Mid
+291,Nvidia,Tech,20.52,Bangalore,"CUDA,C++",AI Engineer,AI,Mid
+292,SAP,Tech,9.89,Bangalore,"ABAP,SQL,SAP HANA,Ecom",SAP Developer,Development,Mid
+293,WalmartLabs,Retail,19.37,Bangalore,"Java,DSA,System Design,Node",SDE,Development,Mid
+294,Meesho,E-commerce,8.6,Bangalore,"Python,SQL,Analytics,ML",Data Analyst,Analytics,Mid
+295,Stripe,Fintech,20.17,Remote,"Ruby,APIs,Payments,Node",Backend Developer,Development,Mid
+296,Ola,Transport,8.76,Bangalore,"Java,Android",App Developer,Development,Mid
+297,HubSpot,Tech,13.58,Remote,"Marketing,CRM,Analytics,CCNA",Analyst,Analytics,Mid
+298,Robinhood,Fintech,19.79,Remote,"Python,Finance,ML,Storage",Data Scientist,AI,Mid
+299,TCS,IT Services,4.58,Mumbai,"Java,SQL,DSA,Data",Software Engineer,Development,Entry
+300,RedBus,Transport,9.31,Bangalore,"Java,Spring Boot,SQL,MongoDB",Backend Developer,Development,Mid
+301,Upstox,Fintech,11.84,Mumbai,"Node.js,Trading",Backend Dev,Development,Mid
+302,JPMorgan,Finance,17.77,Mumbai,"Java,Spring",Backend Engineer,Development,Mid
+303,Unacademy,EdTech,6.36,Bangalore,"Node.js,React,Firebase,APIs",Full Stack Developer,Development,Mid
+304,Asana,Tech,17.36,Remote,"React,UX",Frontend Engineer,Development,Mid
+305,Games24x7,Gaming,14.41,Mumbai,"Java,Gaming,Backend,React",Backend Dev,Development,Mid
+306,Slack,Tech,16.13,Remote,"React,Node,Realtime,DSP",Full Stack Dev,Development,Mid
+307,Ubisoft,Gaming,17.29,Pune,"Unity,Gaming",Game Dev,Development,Mid
+308,RedHat,Tech,14.45,Bangalore,"Linux,OpenSource,Cloud,System Design",DevOps Engineer,Development,Mid
+309,Razorpay,Fintech,10.57,Bangalore,"APIs,Payments",Backend Developer,Development,Mid
+310,Salesforce,Tech,14.87,Hyderabad,"CRM,Cloud",Developer,Development,Mid
+311,Intel,Hardware,13.45,Bangalore,"C++,Embedded,OS,Finance",Embedded Engineer,Development,Mid
+312,Infosys,IT Services,4.41,Bangalore,"SQL,DBMS",System Engineer,Development,Entry
+313,LTI,IT Services,5.31,Mumbai,"Python,ML,Data Science,Spring",Data Scientist,AI,Mid
+314,Figma,Tech,19.61,Remote,"UI,Collaboration",Frontend Engineer,Development,Mid
+315,Wipro,IT Services,3.88,Hyderabad,"JavaScript,React",Frontend Developer,Development,Entry
+316,Cred,Fintech,13.45,Bangalore,"Java,Cloud",Backend Engineer,Development,Mid
+317,Swiggy,FoodTech,8.57,Bangalore,"Java,Spring Boot",Backend Engineer,Development,Mid
+318,IBM,Tech,8.22,Bangalore,"AI,Python,Cloud,Selenium",ML Engineer,AI,Mid
+319,PwC,Consulting,4.05,Kolkata,"Excel,SQL",Analyst,Analytics,Entry
+320,Infosys,IT Services,2.96,Bangalore,"Python,SQL,DBMS,C#",System Engineer,Development,Entry
+321,BigBasket,E-commerce,9.39,Bangalore,"Python,Django,SQL,CCNA",Backend Dev,Development,Mid
+322,RedBus,Transport,6.9,Bangalore,"Java,SQL",Backend Developer,Development,Mid
+323,Cleartrip,Travel,8.46,Bangalore,"Python,Django,SQL,React",Backend Developer,Development,Mid
+324,Target,Retail,13.98,Bangalore,"Data,Analytics",Data Analyst,Analytics,Mid
+325,JPMorgan,Finance,16.53,Mumbai,"Java,Spring",Backend Engineer,Development,Mid
+326,Databricks,Tech,19.73,Bangalore,"Spark,Python",Data Engineer,AI,Mid
+327,Cleartrip,Travel,7.83,Bangalore,"Python,SQL",Backend Developer,Development,Mid
+328,Ola,Transport,10.33,Bangalore,"Java,Kotlin,Android,Collaboration",App Developer,Development,Mid
+329,ServiceNow,Tech,13.72,Hyderabad,"Cloud,ITSM",Developer,Development,Mid
+330,Robinhood,Fintech,20.06,Remote,"Python,Finance,ML",Data Scientist,AI,Mid
+331,RedBus,Transport,7.1,Bangalore,"Java,Spring Boot,SQL,Data Science",Backend Developer,Development,Mid
+332,RedBus,Transport,8.88,Bangalore,"Java,Spring Boot,SQL,UX",Backend Developer,Development,Mid
+333,AmericanExpress,Finance,13.12,Gurgaon,"Python,Analytics",Data Analyst,Analytics,Mid
+334,Amazon,Tech,12.16,Hyderabad,"DSA,Java,System Design,UX",SDE,Development,Mid
+335,AmericanExpress,Finance,13.23,Gurgaon,"Python,Analytics",Data Analyst,Analytics,Mid
+336,Slack,Tech,18.12,Remote,"React,Node,Realtime,Excel",Full Stack Dev,Development,Mid
+337,InfosysEdge,Tech,8.2,Bangalore,"AI,Cloud,Python,SAP HANA",AI Engineer,AI,Entry
+338,Wayfair,E-commerce,18.27,Remote,"Java,Microservices,Cloud,Finance",Backend Engineer,Development,Mid
+339,WalmartLabs,Retail,18.25,Bangalore,"DSA,System Design",SDE,Development,Mid
+340,RedHat,Tech,16.39,Bangalore,"Linux,OpenSource,Cloud,UX",DevOps Engineer,Development,Mid
+341,Atlassian,Tech,18.64,Bangalore,"Java,Cloud,Agile,Payments",Software Engineer,Development,Mid
+342,Scaler,EdTech,9.01,Bangalore,"Java,Teaching",Instructor,Development,Mid
+343,Atlassian,Tech,19.47,Bangalore,"Java,Cloud,Agile,Realtime",Software Engineer,Development,Mid
+344,Intel,Hardware,13.51,Bangalore,"C++,Embedded",Embedded Engineer,Development,Mid
+345,PwC,Consulting,4.94,Kolkata,"Excel,SQL,Audit,Teaching",Analyst,Analytics,Entry
+346,Microsoft,Tech,18.07,Hyderabad,"DSA,Azure",Software Engineer,Development,Mid
+347,Cisco,Networking,11.7,Bangalore,"Networking,CCNA",Network Engineer,Development,Mid
+348,Swiggy,FoodTech,9,Bangalore,"Java,Spring Boot",Backend Engineer,Development,Mid
+349,Swiggy,FoodTech,10.25,Bangalore,"Java,Redis",Backend Engineer,Development,Mid
+350,Asana,Tech,16.63,Remote,"React,JavaScript,UX,C#",Frontend Engineer,Development,Mid
+351,Deloitte,Consulting,6.04,Hyderabad,"SQL,Excel,PowerBI,JavaScript",Business Analyst,Analytics,Mid
+352,PayPal,Fintech,14.89,Chennai,"Java,APIs",Backend Engineer,Development,Mid
+353,Nvidia,Tech,20.69,Bangalore,"CUDA,C++,AI,Agile",AI Engineer,AI,Mid
+354,Atlassian,Tech,17.8,Bangalore,"Java,Cloud",Software Engineer,Development,Mid
+355,Cognizant,IT Services,4.76,Chennai,"Python,SQL,Excel,Data",Data Analyst,Analytics,Entry
+356,CitiBank,Finance,13.19,Mumbai,"Java,Banking",Software Engineer,Development,Mid
+357,Spotify,Tech,20.72,Remote,"Python,Data",Data Engineer,AI,Mid
+358,Atlassian,Tech,17.23,Bangalore,"Java,Cloud,Agile,Spark",Software Engineer,Development,Mid
+359,BigBasket,E-commerce,11.36,Bangalore,"Python,Django,SQL,ITSM",Backend Dev,Development,Mid
+360,Mastercard,Fintech,14.8,Pune,"Java,Spring,Cloud,Design",Backend Engineer,Development,Mid
+361,Unacademy,EdTech,6.6,Bangalore,"Node.js,React,Firebase,C++",Full Stack Developer,Development,Mid
+362,MorganStanley,Finance,16.55,Mumbai,"Python,SQL",Data Analyst,Analytics,Mid
+363,Netflix,Tech,24.21,Remote,"Python,Cloud,Data,Redis",Data Engineer,AI,Mid
+364,Salesforce,Tech,14.84,Hyderabad,"Apex,Cloud",Developer,Development,Mid
+365,Stripe,Fintech,18.83,Remote,"Ruby,Payments",Backend Developer,Development,Mid
+366,PolicyBazaar,Fintech,7.04,Gurgaon,"React,Node,MongoDB,DSP",Full Stack Dev,Development,Mid
+367,Byjus,EdTech,5.97,Bangalore,"JavaScript,UI",Frontend Developer,Development,Entry
+368,Meta,Tech,20.79,Bangalore,"React,System Design",Frontend Engineer,Development,Mid
+369,WalmartLabs,Retail,18.81,Bangalore,"Java,DSA",SDE,Development,Mid
+370,Ola,Transport,7.74,Bangalore,"Java,Kotlin,Android,Excel",App Developer,Development,Mid
+371,RedHat,Tech,14.56,Bangalore,"Linux,OpenSource,Cloud,ITSM",DevOps Engineer,Development,Mid
+372,Scaler,EdTech,9.18,Bangalore,"DSA,Java,Teaching,Cloud",Instructor,Development,Mid
+373,PwC,Consulting,5.24,Kolkata,"Excel,SQL",Analyst,Analytics,Entry
+374,Flipkart,E-commerce,8.78,Bangalore,"Java,DSA",Backend Engineer,Development,Mid
+375,Uber,Transport,13.65,Bangalore,"System Design,Java",SDE,Development,Mid
+376,Accenture,Consulting,5.14,Bangalore,"Python,ML",Data Analyst,Analytics,Mid
+377,Figma,Tech,20.41,Remote,"UI,Collaboration",Frontend Engineer,Development,Mid
+378,MakeMyTrip,Travel,8.07,Gurgaon,"Java,APIs,Microservices,OpenSource",Backend Engineer,Development,Mid
+379,EASports,Gaming,19,Hyderabad,"C++,Gaming,Graphics,Android",Game Dev,Development,Mid
+380,Salesforce,Tech,13.49,Hyderabad,"CRM,Cloud",Developer,Development,Mid
+381,Accenture,Consulting,5.74,Bangalore,"Python,ML,SQL,Apex",Data Analyst,Analytics,Mid
+382,Ubisoft,Gaming,15.71,Pune,"C++,Unity,Gaming,JavaScript",Game Dev,Development,Mid
+383,Flipkart,E-commerce,9.55,Bangalore,"Java,DSA",Backend Engineer,Development,Mid
+384,Google,Tech,20.65,Bangalore,"DSA,Algorithms,C++,Virtualization",SWE,Development,Mid
+385,Airbnb,Tech,21.2,Remote,"React,System Design",Full Stack Dev,Development,Mid
+386,Cleartrip,Travel,8.23,Bangalore,"Django,SQL",Backend Developer,Development,Mid
+387,eBay,E-commerce,16.26,Bangalore,"Java,Cloud",Backend Engineer,Development,Mid
+388,Target,Retail,15.44,Bangalore,"Python,Data,Analytics,Finance",Data Analyst,Analytics,Mid
+389,Paytm,Fintech,8.08,Noida,"Node.js,MongoDB,APIs,Web Dev",Full Stack Developer,Development,Mid
+390,Qualcomm,Tech,16.41,Hyderabad,"C++,DSP,Embedded,ML",Embedded Engineer,Development,Mid
+391,Cred,Fintech,12.01,Bangalore,"Java,Microservices,Cloud,Selenium",Backend Engineer,Development,Mid
+392,MakeMyTrip,Travel,9.01,Gurgaon,"Java,APIs,Microservices,Gaming",Backend Engineer,Development,Mid
+393,SAP,Tech,9.5,Bangalore,"ABAP,SQL,SAP HANA,Android",SAP Developer,Development,Mid
+394,Oracle,Tech,9.76,Bangalore,"Java,SQL,Cloud,ML",Backend Developer,Development,Mid
+395,Zoom,Tech,17.7,Remote,"Java,Networking,Cloud,Apex",Backend Engineer,Development,Mid
+396,Stripe,Fintech,19.31,Remote,"Ruby,APIs",Backend Developer,Development,Mid
+397,HubSpot,Tech,14.38,Remote,"Marketing,CRM,Analytics,UI",Analyst,Analytics,Mid
+398,Adobe,Tech,12.88,Noida,"React,UI",Frontend Engineer,Development,Mid
+399,Games24x7,Gaming,16.27,Mumbai,"Java,Backend",Backend Dev,Development,Mid
+400,Wipro,IT Services,3.4,Hyderabad,"JavaScript,React,Node,Virtualization",Frontend Developer,Development,Entry
