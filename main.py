@@ -38,7 +38,7 @@ y = df["role_encoded"]
 model = RandomForestClassifier(n_estimators=300, max_depth=10, random_state=42)
 model.fit(X, y)
 
-print("Model trained successfully ✅")
+print("Model trained successfully")
 
 # =========================
 # TF-IDF FOR SKILL RECOMMENDATION
@@ -79,7 +79,7 @@ filtered_df = df[df["company_name"].isin(preferred_companies)]
 
 # fallback if no company match
 if len(filtered_df) < 5:
-    print("\n⚠️ Not enough company-specific data, using global dataset...")
+    print("\nNot enough company-specific data, using global dataset...")
     filtered_df = df
 
 # =========================
